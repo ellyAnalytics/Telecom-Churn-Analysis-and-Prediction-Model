@@ -1,6 +1,9 @@
 Telecom-Churn-Analysis-and-Prediction-Model
+
 Analyzing customer churn and predicting at-risk customers for a telecom company using Python and machine learning.
+
 Project Overview
+
 Churn is a major challenge in the telecom industry. Retaining customers is often more cost-effective than acquiring new ones. In this project, we:
 
 Explored customer data to understand patterns and behavior leading to churn.
